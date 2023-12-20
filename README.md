@@ -1,1 +1,1 @@
-# Qura'an as JSON & SQL
+# Quran as JSON & SQL
